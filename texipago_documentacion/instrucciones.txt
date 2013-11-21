@@ -1,0 +1,7 @@
+Despues de descargar los archivos saca la carpeta de "texipago documentacion" ya que no pertenece al sistema
+
+la base de datos se encuentra dentro de esta carpeta y se llama Dumptexipago.sql
+
+el manual te lo envio en pdf y docx para q lo edites, las imagenes estan en capturas de pantalla
+
+cualquier dudad o error q salga contactame.
